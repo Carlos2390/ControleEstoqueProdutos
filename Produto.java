@@ -6,7 +6,7 @@ package DadosProdutos;
 
 /**
  *
- * @author Carlos Matos RGM: 29622182
+ * @author Carlos Matos
  */
 public class Produto {
     public String nome;

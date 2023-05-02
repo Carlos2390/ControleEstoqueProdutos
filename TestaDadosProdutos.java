@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Carlos Matos RGM: 29622182
+ * @author Carlos Matos
  */
 public class TestaDadosProdutos {
     public static void main(String[] args) {
